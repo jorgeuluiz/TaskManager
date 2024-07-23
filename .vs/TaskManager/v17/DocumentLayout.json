@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A5418-FCBA-4049-9F99-AF0B1AE83E2E}|TaskManager.Application\\TaskManager.Application.csproj|c:\\git\\taskmanager\\taskmanager.application\\usecases\\taskmanager\\register\\registertaskmanagerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A5418-FCBA-4049-9F99-AF0B1AE83E2E}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\taskmanager\\register\\registertaskmanagerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1679B5A7-CA84-4795-B936-8FEE070DDA78}|TaskManager.API\\TaskManager.API.csproj|c:\\git\\taskmanager\\taskmanager.api\\controllers\\taskmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1679B5A7-CA84-4795-B936-8FEE070DDA78}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\controllers\\taskmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A5418-FCBA-4049-9F99-AF0B1AE83E2E}|TaskManager.Application\\TaskManager.Application.csproj|c:\\git\\taskmanager\\taskmanager.application\\usecases\\taskmanager\\update\\updatetaskmanagerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A5418-FCBA-4049-9F99-AF0B1AE83E2E}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\taskmanager\\update\\updatetaskmanagerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A5418-FCBA-4049-9F99-AF0B1AE83E2E}|TaskManager.Application\\TaskManager.Application.csproj|c:\\git\\taskmanager\\taskmanager.application\\usecases\\taskmanager\\delete\\deletetaskmanagerbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A5418-FCBA-4049-9F99-AF0B1AE83E2E}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\taskmanager\\delete\\deletetaskmanagerbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A5418-FCBA-4049-9F99-AF0B1AE83E2E}|TaskManager.Application\\TaskManager.Application.csproj|c:\\git\\taskmanager\\taskmanager.application\\usecases\\taskmanager\\getall\\getalltaskmanagerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A5418-FCBA-4049-9F99-AF0B1AE83E2E}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\taskmanager\\getall\\getalltaskmanagerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1A5418-FCBA-4049-9F99-AF0B1AE83E2E}|TaskManager.Application\\TaskManager.Application.csproj|c:\\git\\taskmanager\\taskmanager.application\\usecases\\taskmanager\\getbyid\\gettaskmanagerbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1A5418-FCBA-4049-9F99-AF0B1AE83E2E}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\usecases\\taskmanager\\getbyid\\gettaskmanagerbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateTaskManagerUseCase.cs",
+              "DocumentMoniker": "C:\\git\\TaskManager\\TaskManager.Application\\UseCases\\TaskManager\\Update\\UpdateTaskManagerUseCase.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\TaskManager\\Update\\UpdateTaskManagerUseCase.cs",
+              "ToolTip": "C:\\git\\TaskManager\\TaskManager.Application\\UseCases\\TaskManager\\Update\\UpdateTaskManagerUseCase.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\TaskManager\\Update\\UpdateTaskManagerUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:37:53.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterTaskManagerUseCase.cs",
+              "DocumentMoniker": "C:\\git\\TaskManager\\TaskManager.Application\\UseCases\\TaskManager\\Register\\RegisterTaskManagerUseCase.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\TaskManager\\Register\\RegisterTaskManagerUseCase.cs",
+              "ToolTip": "C:\\git\\TaskManager\\TaskManager.Application\\UseCases\\TaskManager\\Register\\RegisterTaskManagerUseCase.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\TaskManager\\Register\\RegisterTaskManagerUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:36:41.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetTaskManagerByIdUseCase.cs",
+              "DocumentMoniker": "C:\\git\\TaskManager\\TaskManager.Application\\UseCases\\TaskManager\\GetById\\GetTaskManagerByIdUseCase.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\TaskManager\\GetById\\GetTaskManagerByIdUseCase.cs",
+              "ToolTip": "C:\\git\\TaskManager\\TaskManager.Application\\UseCases\\TaskManager\\GetById\\GetTaskManagerByIdUseCase.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\TaskManager\\GetById\\GetTaskManagerByIdUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:34:23.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllTaskManagerUseCase.cs",
+              "DocumentMoniker": "C:\\git\\TaskManager\\TaskManager.Application\\UseCases\\TaskManager\\GetAll\\GetAllTaskManagerUseCase.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\TaskManager\\GetAll\\GetAllTaskManagerUseCase.cs",
+              "ToolTip": "C:\\git\\TaskManager\\TaskManager.Application\\UseCases\\TaskManager\\GetAll\\GetAllTaskManagerUseCase.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\TaskManager\\GetAll\\GetAllTaskManagerUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:32:08.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteTaskManagerByIdUseCase.cs",
+              "DocumentMoniker": "C:\\git\\TaskManager\\TaskManager.Application\\UseCases\\TaskManager\\Delete\\DeleteTaskManagerByIdUseCase.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\UseCases\\TaskManager\\Delete\\DeleteTaskManagerByIdUseCase.cs",
+              "ToolTip": "C:\\git\\TaskManager\\TaskManager.Application\\UseCases\\TaskManager\\Delete\\DeleteTaskManagerByIdUseCase.cs",
+              "RelativeToolTip": "TaskManager.Application\\UseCases\\TaskManager\\Delete\\DeleteTaskManagerByIdUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:31:36.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManagerController.cs",
+              "DocumentMoniker": "C:\\git\\TaskManager\\TaskManager.API\\Controllers\\TaskManagerController.cs",
+              "RelativeDocumentMoniker": "TaskManager.API\\Controllers\\TaskManagerController.cs",
+              "ToolTip": "C:\\git\\TaskManager\\TaskManager.API\\Controllers\\TaskManagerController.cs",
+              "RelativeToolTip": "TaskManager.API\\Controllers\\TaskManagerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:17:16.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

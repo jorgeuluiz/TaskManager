@@ -1,0 +1,12 @@
+C:\git\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.deps.json
+C:\git\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.dll
+C:\git\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.pdb
+C:\git\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfoInputs.cache
+C:\git\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfo.cs
+C:\git\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.csproj.CoreCompileInputs.cache
+C:\git\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.sourcelink.json
+C:\git\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.dll
+C:\git\TaskManager\TaskManager.Communication\obj\Debug\net8.0\refint\TaskManager.Communication.dll
+C:\git\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.pdb
+C:\git\TaskManager\TaskManager.Communication\obj\Debug\net8.0\ref\TaskManager.Communication.dll
